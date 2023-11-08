@@ -47,7 +47,7 @@ API integration plays a crucial role in our project. We fetch movie details such
 **Phase 6: Deployment**
 Upon achieving a high-performing model, our focus will shift toward deployment, ensuring that it can be effectively utilized for real-time movie recommendations. For this purpose, we will use Streamlit, a user-friendly web app framework for creating interactive and intuitive interfaces.
 
-
+**Find the codes of this project on my GitHub profile [**Here**.](https://github.com/NikhilPanda01/CineSuggest_A_Personalized_Movie_Suggestion_System/blob/main/CineSuggest%20A%20Personalized%20Movie%20Suggestion%20System.ipynb)**
 
 ---
 ## Dataset
